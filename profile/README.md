@@ -59,9 +59,9 @@ What TRACARDI can do for you:
  * **Unify Profiles** - You can merge customer data from various sources to
    single profile. Auto de-duplicate customer records. Blend customers in one account.
    
- * **Integrate your internal systems** - Tracardi is a centralized communication and orchestration hub that can integrate different parts of your IT parts.
+ * **Integrate your internal systems** - Tracardi is a centralized communication and orchestration hub that can integrate different parts of your IT parts. It has open access to any stream of data it process, wheather it is a clieck stream, custom event stream, you name it. You can programatically conenct to it and process data.
    
- * **Scale you e-commerce easily** - Tracardi is a headless, API first platform. Build with modern tools and designed as a decentralized system that can
+ * **Scale you e-commerce easily** - Tracardi is a headless, stateless, API first platform. Build with modern tools and designed as a decentralized system that can
    handle your needs.
   
  * **Use Social Engagement** - Use Tracardi bridges to connect your e-commerce platform to the existing social media networks. Reward your clients for 
