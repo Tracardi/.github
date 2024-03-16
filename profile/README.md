@@ -45,8 +45,7 @@ wants to start using user data for automated customer engagement. Tracardi is in
 What TRACARDI can do for you:
 
  * **Reuse your current infrastructure**
-   Tracardi doesn’t require the complex integration or dedicated infrastructure. It runs on top of cloud managed services; reusing your existing   
-   infrastructure and spinning up new resources when needed.
+   Tracardi doesn’t require the complex integration or dedicated infrastructure. It is cloud agnostic tool. It runs on top of any cloud managed services; reusing your existing infrastructure and spinning up new resources when needed.
 
  * **Collect Customer Data** - You can collect, ingest, aggregate and store customer data
    from multiple sources in real time.
